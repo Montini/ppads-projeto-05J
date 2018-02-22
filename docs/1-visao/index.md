@@ -14,7 +14,9 @@ esperadas do sistema.
 * Descrição do problema: o condomínio não possui controle das entradas/saídas de correspondências gerando conflito entre condomínos e funcionários.
 * Quem é afetado pelo problema: Funcionários e Condompinos.
 * Impacto no negócio: 
-* Benefícios de uma boa solução: ___
+* Benefícios de uma boa solução: - Aumentar a produtividade;
+                                 - Otimizar o tempo dos funcionários;
+                                 - Evitar o extravio de correspondências.
 
 ## Definições, abreviações e outros termos do domínio do problema
 

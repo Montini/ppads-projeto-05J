@@ -36,7 +36,4 @@
 
 **Instruções do professor**: Lembre-se de especificar cada um dos casos de uso.
 
-## 3. Protótipos de tela
-
-**Instruções do professor**: Faça um esboço de todas as telas que a equipe conseguiu identificar que serão necessárias a partir das especificações dos casos de uso.
 

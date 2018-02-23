@@ -1,18 +1,18 @@
-# Documento de Visão do Projeto "CONDOMINIO LEGAL"
+# Documento de Visão do Projeto "CONDOMÍNIO LEGAL"
 
-Este documento apresenta uma solução de software para o projeto *"CONDOMINIO LEGAL"*, solicitado pelo cliente *"CHUCK NORRIS"*, 
+Este documento apresenta uma solução de software para o projeto *"CONDOMÍNIO LEGAL"*, solicitado pelo cliente *"CHUCK NORRIS"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
 ## Objetivos
 
 * Oferecer um serviço de mensageria para condomínios.
-* Documentar todas as cartar e encomendas notificando os condomíno através de mensagens/e-mails.
+* Documentar todas as cartaS e encomendas notificando os condôminos através de mensagens/e-mails.
 
 ## Problema
 
 * Descrição do problema: o condomínio não possui controle das entradas/saídas de correspondências gerando conflito entre condomínos e funcionários.
-* Quem é afetado pelo problema: Funcionários e Condompinos.
+* Quem é afetado pelo problema: Funcionários e Condôminos.
 * Impacto no negócio: 
 * Benefícios de uma boa solução: - Aumentar a produtividade;
                                  - Otimizar o tempo dos funcionários;

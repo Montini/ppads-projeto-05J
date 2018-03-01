@@ -1,22 +1,19 @@
-# Documento de Visão do Projeto "CONDOMÍNIO LEGAL"
+# Documento de Visão do Projeto "Mackenzie Bússola"
 
-Este documento apresenta uma solução de software para o projeto *"CONDOMÍNIO LEGAL"*, solicitado pelo cliente *"CHUCK NORRIS"*, 
-apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
+Este documento apresenta uma solução de software para o projeto *"Mack Bússola"*, solicitado pelo cliente *"UPM"*, apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
 ## Objetivos
 
-* Oferecer um serviço de mensageria para condomínios.
-* Documentar todas as cartaS e encomendas notificando os condôminos através de mensagens/e-mails.
+* Oferecer informações gerais e localização sobre as faculdades existentes no campus da Universidade Presbiteriana Mackenzie (Campus Higienópolis).
+* Oferecer informações e localização das opções de alimentação dentro do campus (Restaurantes, Cafés, etc).
 
 ## Problema
 
-* Descrição do problema: o condomínio não possui controle das entradas/saídas de correspondências gerando conflito entre condomínos e funcionários.
-* Quem é afetado pelo problema: Funcionários e Condôminos.
+* Devido a sua grande extensão territorial, é comum que pessoas se percam dentro do campus ou não saibam se localizarem dentro dele.  
+* Quem é afetado pelo problema: Alunos, Professores, Colaboradores e Terceirizados.
 * Impacto no negócio: 
-* Benefícios de uma boa solução: - Aumentar a produtividade;
-                                 - Otimizar o tempo dos funcionários;
-                                 - Evitar o extravio de correspondências.
+* Benefícios de uma boa solução: A otimização de tempo, clareza de informações, satisfação dos usuários.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
@@ -27,37 +24,34 @@ esperadas do sistema.
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Amazon AWS.
+* Google Maps.
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Faculdades.
+* Comerciantes dentro do campus Mackenzie (Unidade Higienópolis).
+* Alunos.
+* Professores.
+* Colaboradores.
+* Terceirizados.
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Alunos.
+* Professores.
+* Colaboradores.
+* Terceirizados.
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Listagem das faculdades dentro do campus Higienópolis.
+* Listagem de restaurantes, cafés e opções de alimentação dentro do campus Higienópolis.
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Campo de busca por palavra-chave inexistente.
+* Localização por GPS não habilitado.
 
 ## Protótipos de tela
 
@@ -74,3 +68,5 @@ Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
 ### Protótipos para funcionalidade N
+
+

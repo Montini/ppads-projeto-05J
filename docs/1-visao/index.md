@@ -12,15 +12,13 @@ esperadas do sistema.
 
 * Devido a sua grande extensão territorial, é comum que pessoas se percam dentro do campus ou não saibam se localizarem dentro dele.  
 * Quem é afetado pelo problema: Alunos, Professores, Colaboradores e Terceirizados.
-* Impacto no negócio: 
+* Impacto no negócio: Ajudar os usuários a encontrar os locais que desejam chegar dentro do campus da Universidade Presbiteriana Mackenzie.
 * Benefícios de uma boa solução: A otimização de tempo, clareza de informações, satisfação dos usuários.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* Localização Geográfica
+* Informações
 
 ## Integração com outros sistemas
 

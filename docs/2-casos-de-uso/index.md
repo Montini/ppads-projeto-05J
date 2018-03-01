@@ -14,9 +14,9 @@
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CSU01              |
-| Nome:          | Consultar Faculdades |
-| Atores:        | Usuário (Funcionários/Professores/Alunos/Tercerizados) |
-| Sumário:       | Consultar informações da faculdade |
+| Nome:          | Consultar Faculdades. |
+| Atores:        | Usuário (Funcionários/Professores/Alunos/Tercerizados). |
+| Sumário:       | Consultar informações da faculdade. |
 
 | Fluxo Principal |
 |---|
@@ -29,9 +29,9 @@
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CSU02              |
-| Nome:          | Consultar Restaurantes |
-| Atores:        | Usuário (Funcionários/Professores/Alunos/Tercerizados) |
-| Sumário:       | Consultar informações dos restaurantes. |
+| Nome:          | Consultar Restaurantes. |
+| Atores:        | Usuário (Funcionários/Professores/Alunos/Tercerizados). |
+| Sumário:       | Consultar informações do restaurante. |
 
 | Fluxo Principal |
 |---|

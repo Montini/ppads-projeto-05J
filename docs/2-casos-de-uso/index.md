@@ -2,7 +2,6 @@
 
 ## 1. Diagrama de casos de uso
 
-**Instruções do professor**: Insira abaixo o diagrama com os casos de uso do seu sistema. A imagem abaixo é somente um exemplo.
 
 ![Diagrama dos casos de uso](UseCaseDiagram1.png)
 
@@ -40,6 +39,5 @@
 | 2) O Usuário localiza o Restaurante desejado.             |
 | 3) Aplicação retorna a página com as informações do Restaurante. |
 
-**Instruções do professor**: As tabelas acima mostram um exemplo de especificação de **um único caso de uso**. Lembre-se de especificar cada um dos casos de uso.
 
 

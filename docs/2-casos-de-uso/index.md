@@ -22,7 +22,7 @@
 | Fluxo Principal |
 |---|
 | 1) O Usuário acessa a lista de **Faculdades**. |
-| 2) O Usuário localiza a faculdade que desejar.             |
+| 2) O Usuário localiza a faculdade desejado.             |
 | 3) Aplicação retorna a página com as informações da faculdade. |
 
 ### 2.2. Caso de uso **Consultar Restaurantes**
@@ -37,7 +37,7 @@
 | Fluxo Principal |
 |---|
 | 1) O Usuário acessa a lista de **Restaurantes**. |
-| 2) O Usuário localiza o Restaurante que desejar.             |
+| 2) O Usuário localiza o Restaurante desejado.             |
 | 3) Aplicação retorna a página com as informações do Restaurante. |
 
 **Instruções do professor**: As tabelas acima mostram um exemplo de especificação de **um único caso de uso**. Lembre-se de especificar cada um dos casos de uso.

@@ -55,16 +55,14 @@ esperadas do sistema.
 
 ### Protótipos para funcionalidade 1
 
-![](proto1.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+![](prototipo_telas-primarias.png)
 
 ### Protótipos para funcionalidade 2
 
-![](proto2.png)
+![](prototipo_telas-conteudo.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Exemplos gerados pela aplicação **Pencil**.
 
-### Protótipos para funcionalidade N
+
 
 

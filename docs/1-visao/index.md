@@ -54,15 +54,7 @@ esperadas do sistema.
 ## Protótipos de tela
 
 ### Protótipos para funcionalidade 1
-
 ![](prototipo_telas-primarias.png)
-
 ### Protótipos para funcionalidade 2
-
 ![](prototipo_telas-conteudo.png)
-
 Exemplos gerados pela aplicação **Pencil**.
-
-
-
-

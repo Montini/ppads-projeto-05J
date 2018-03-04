@@ -10,7 +10,8 @@ esperadas do sistema.
 
 ## Problema
 
-* Devido a sua grande extensão territorial, é comum que pessoas se percam dentro do campus ou não saibam se localizarem dentro dele.  
+Devido a sua grande extensão territorial, é comum que pessoas se percam dentro do campus Higienópolis, ou tenham uma certa dificuldade em encontrar prédios das faculdades ou restaurantes desejados.
+
 * Quem é afetado pelo problema: Alunos, Professores, Colaboradores e Terceirizados.
 * Impacto no negócio: Ajudar os usuários a encontrar os locais que desejam chegar dentro do campus da Universidade Presbiteriana Mackenzie.
 * Benefícios de uma boa solução: A otimização de tempo, clareza de informações, satisfação dos usuários.
@@ -54,7 +55,7 @@ esperadas do sistema.
 ## Protótipos de tela
 
 ### Protótipos para funcionalidade 1
-![](prototipo_telas-primarias.png)
+![](prototipotelas-principais.png)
 ### Protótipos para funcionalidade 2
-![](prototipo_telas-conteudo.png)
-Exemplos gerados pela aplicação **Pencil**.
+![](prototipotelas-conteudo.png)
+Telas geradas pela aplicação **Pencil**.

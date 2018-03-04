@@ -21,7 +21,7 @@
 | Fluxo Principal |
 |---|
 | 1) O Usuário acessa a lista de **Faculdades**. |
-| 2) O Usuário localiza a faculdade desejado.             |
+| 2) O Usuário localiza a Faculdade desejada.             |
 | 3) Aplicação retorna a página com as informações da faculdade. |
 
 ### 2.2. Caso de uso **Consultar Restaurantes**

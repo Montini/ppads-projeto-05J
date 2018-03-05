@@ -51,6 +51,8 @@ Devido a sua grande extensão territorial, é comum que pessoas se percam dentro
 
 * Campo de busca por palavra-chave inexistente.
 * Localização por GPS não habilitado.
+* Sistema Operacional: Multiplataforma (Web).
+* Hardware: Multiplataforma.
 
 ## Protótipos de tela
 

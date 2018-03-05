@@ -49,10 +49,10 @@ Devido a sua grande extensão territorial, é comum que pessoas se percam dentro
 
 ## Restrições do projeto
 
-* Campo de busca por palavra-chave inexistente.
-* Localização por GPS não habilitado.
 * Sistema Operacional: Multiplataforma (Web).
-* Hardware: Multiplataforma.
+* Hardware: Multiplataforma (Windows/MacOS/Linux).
+* Primeiro acesso ao aplicativo irá necessitar de internet.
+* Acessos posteriores serão possíveis via cache.
 
 ## Protótipos de tela
 

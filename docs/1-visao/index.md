@@ -23,7 +23,6 @@ Devido a sua grande extensão territorial, é comum que pessoas se percam dentro
 
 ## Integração com outros sistemas
 
-* Amazon AWS.
 * Google Maps.
  
 ## Interessados

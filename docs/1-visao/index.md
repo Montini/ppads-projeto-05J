@@ -29,10 +29,6 @@ Devido a sua grande extensão territorial, é comum que pessoas se percam dentro
 
 * Faculdades.
 * Comerciantes dentro do campus Mackenzie (Unidade Higienópolis).
-* Alunos.
-* Professores.
-* Colaboradores.
-* Terceirizados.
 
 ## Usuários
 

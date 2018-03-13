@@ -59,7 +59,7 @@ Devido a sua grande extensão territorial, é comum que pessoas se percam dentro
 ![](telainclusao1.png)
 ![](telainclusao2.png)
 ### Protótipos para Edição de Faculdade/Restaurante
-![](telaedicao1.png)
+![](telaedicao1a.png)
 ![](telaedicao2.png)
 ### Protótipos para Exclusão de Faculdade/Restaurante
 ![](telaexclusao1.png)

@@ -55,4 +55,12 @@ Devido a sua grande extensão territorial, é comum que pessoas se percam dentro
 ![](prototipotelas-principais.png)
 ### Protótipos para funcionalidade 2
 ![](prototipotelas-conteudo.png)
-Telas geradas pela aplicação **Pencil**.
+### Protótipos para Inclusão de Faculdade/Restaurante
+![](telainclusao1.png)
+![](telainclusao2.png)
+### Protótipos para Edição de Faculdade/Restaurante
+![](telaedicao1.png)
+![](telaedicao2.png)
+### Protótipos para Exclusão de Faculdade/Restaurante
+![](telaexclusao1.png)
+![](telaexclusao2.png)

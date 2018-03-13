@@ -39,5 +39,31 @@
 | 2) O Usuário localiza o Restaurante desejado.             |
 | 3) Aplicação retorna a página com as informações do Restaurante. |
 
+### 2.3. Caso de uso **Propor Mudança**
 
+| Campo          | Informação        |
+|---|---|
+| Identificador: | CSU03              |
+| Nome:          | Propor Mudança. |
+| Atores:        | Usuário (Funcionários/Professores/Alunos/Tercerizados). |
+| Sumário:       | Propor alguma mudança da página ao Administrador. |
 
+| Fluxo Principal |
+|---|
+| 1) O Usuário acessa a lista. |
+| 2) O Usuário localiza o local desejado.             |
+| 3) Aplicação retorna a página com as informações do local. |
+| 3) O Usuário clica no campo "Alterar". |
+| 4) A aplicação retorna a página com campos a serem alterados. |
+| 5) O Usuário faz as alteração e clica em "Enviar". |
+| 6) A aplicação envia a proposta de mudança para a conta do Administrador. |
+
+| Fluxo Alternativo |
+|---|
+| 1) O Usuário acessa a lista. |
+| 2) O Usuário localiza o local desejado.             |
+| 3) Aplicação retorna a página com as informações do local. |
+| 3) O Usuário clica no campo "Alterar". |
+| 4) A aplicação retorna a página com campos a serem alterados. |
+| 5) O Usuário clica em "Cancelar". |
+| 6) A Aplicação retorna a página do local. |

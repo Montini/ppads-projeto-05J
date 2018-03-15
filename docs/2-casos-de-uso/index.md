@@ -54,8 +54,8 @@
 | 2) O Usuário localiza o local desejado.             |
 | 3) Aplicação retorna a página com as informações do local. |
 | 3) O Usuário clica no campo "Reportar Erro". |
-| 4) A aplicação retorna a página com campos a serem alterados. |
-| 5) O Usuário faz as alteração e clica em "Enviar". |
+| 4) A aplicação retorna a página com um formulário para preencher. |
+| 5) O Usuário informa o erro e clica em "Enviar". |
 | 6) A aplicação envia a proposta de mudança para a conta do Administrador. |
 
 | Fluxo Alternativo |

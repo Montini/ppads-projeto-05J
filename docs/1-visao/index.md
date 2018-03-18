@@ -39,7 +39,7 @@ Devido a sua grande extensão territorial, é comum que pessoas se percam dentro
 
 ## Funcionalidades do produto
 
-* Listagem das faculdades dentro do campus Higienópolis.
+* Listagem das faculdades (nome e número) dentro do campus Higienópolis.
 * Listagem de restaurantes, cafés e opções de alimentação dentro do campus Higienópolis.
 
 ## Restrições do projeto

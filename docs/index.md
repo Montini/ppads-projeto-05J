@@ -6,5 +6,5 @@
 * [Casos de Uso](2-casos-de-uso/)
 * Mapas de Navegação
 * [Arquitetura](3-arquitetura/)
-* Detalhamento dos Componentes
+* [Detalhamento dos Componentes](4-componentes)
 

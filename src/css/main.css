@@ -1341,7 +1341,11 @@ input[type=range]:focus::-ms-fill-upper {
  * Demo: http://amsul.github.io/pickadate.js
  */
 html {
+<<<<<<< HEAD
     background-color: #9b0615;
+=======
+    background-color: #CC081B;
+>>>>>>> bfa78469387455d6ac121ba7d204646935912a76
     height: 100%
 }
 

@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>CCBS - Mack Bussóla</title>
-    <meta name="description" content="WebApp de exemplo">
+    <title>Reportar erro - Mack Bússola</title>
+    <meta name="description" content="Mack Bússola">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/main.css">
     
@@ -38,32 +38,30 @@
 		</a>
 
 		<div class="parallax">
-			<img src="img/loja/CCBS.jpg" alt="CCBS - Centro de Ciências Biológicas e da Saúde">
+			<img src="img/loja/fci.jpg" alt="FCI - Faculdade de Computação e Informática">
 		</div>
 	</div>
 
 	<div class="section white">
 		<div class="row container">
-			<h2 class="header">CCBS - Centro de Ciências Biológicas e da Saúde</h2>
-			<p class="grey-text text-darken-3 lighten-3">O Centro de Ciências Biológicas e da Saúde (CCBS) foi implantado em agosto de 2006,
-                e agrega os cursos de Ciências Biológicas, Psicologia, Farmácia, Nutrição, Fisioterapia
-                e Tecnologia em Gastronomia. Prezando a excelência das atividades de ensino, pesquisa e
-                extensão na área da Saúde, o CCBS conta com uma moderna infraestrutura de laboratórios
-                para aulas e pesquisas que dinamizam o processo ensino-aprendizagem nos cursos.
-                A Unidade desenvolve estágios específicos nas instalações de suas clínicas de Nutrição,
-                Fisioterapia, Farmácia-Escola e Serviço Escola de Psicologia, onde realiza grande
-                número de atendimentos à comunidade.</p>
+			<h2 class="header">Reportar Erro</h2>
+			<p class="grey-text text-darken-3 lighten-3">A Faculdade de Computação e Informática - FCI oferece
+                os cursos de Bacharelado em Ciência da Computação, Bacharelado em Sistemas de Informação,
+                Tecnologia em Análise e Desenvolvimento de Sistemas, Tecnologia em Jogos Digitais,
+                Bacharelado e Licenciatura em Matemática formando profissionais qualificados, aptos a
+                ingressar num mercado de trabalho cada vez mais competitivo.</p>
 		</div>
 	</div>
 
 	<div class="section amber lighten-5">
 		<div class="row container">
-			<p>Prédio: <strong>50</strong></p>
-			<p>Telefone: <strong>(11) 2114-8694</strong></p>
-			<p>Email: <strong>ccbs@mackenzie.br</strong></p>
-		</div>
-	</div>
+            <p>Prédio: <strong>31 - Ed. Horace Manley Lane</strong></p>
+            <p>Telefone: <strong>(011)2114-8301</strong></p>
+            <p>Email: <strong>fcidir@mackenzie.br</strong></p>
+            <?php echo $var = $_GET['var']; ?>
 
+        </div>
+	</div>
     </div>
 </main>
 

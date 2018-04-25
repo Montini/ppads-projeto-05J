@@ -27,43 +27,37 @@
 
 </head>
 <body>
-<div class="current-page">
 
 
-<main class="loja">
+<?php
 
-	<div class="parallax-container">
-		<a href="lojas.html">
-			<i class="material-icons waves-effect waves-light waves-circle">arrow_back</i>
-		</a>
+include "conecta_mysql.php";
 
-		<div class="parallax">
-			<img src="img/loja/fci.jpg" alt="FCI - Faculdade de Computação e Informática">
-		</div>
-	</div>
+$categoria = $_POST['categoria'];
+$pageid = $_POST['pageid'];
+$sugestoes = $_POST['sugestoes'];
 
-	<div class="section white">
-		<div class="row container">
-			<h2 class="header">FCI - Faculdade de Computação e Informática</h2>
-			<p class="grey-text text-darken-3 lighten-3">A Faculdade de Computação e Informática - FCI oferece
-                os cursos de Bacharelado em Ciência da Computação, Bacharelado em Sistemas de Informação,
-                Tecnologia em Análise e Desenvolvimento de Sistemas, Tecnologia em Jogos Digitais,
-                Bacharelado e Licenciatura em Matemática formando profissionais qualificados, aptos a
-                ingressar num mercado de trabalho cada vez mais competitivo.</p>
-		</div>
-	</div>
+$sql = "INSERT INTO sugestoes (categoria, pageid, sugestoes)
+VALUES ('$categoria', '$pageid', '$sugestoes')";
 
-	<div class="section amber lighten-5">
-		<div class="row container">
-            <p>Prédio: <strong>31 - Ed. Horace Manley Lane</strong></p>
-            <p>Telefone: <strong>(011)2114-8301</strong></p>
-            <p>Email: <strong>fcidir@mackenzie.br</strong></p>
-		</div>
-	</div>
-    </div>
-</main>
+if ($conn->query($sql) === TRUE) {
 
-</div><!--/.current-page-->
+        echo "<div class='current-page'>";
+        echo "<main class='loja'>";
+	    echo "<div class='parallax-container'><a href='lojas.php'><i class='material-icons waves-effect waves-light waves-circle'>arrow_back</i></a>";
+		echo "<div class='parallax'><img src='img/loja/fci.jpg' alt='FCI - Faculdade de Computação e Informática'></div></div>";
+        echo "<div class='section white'><div class='row container'>";
+        echo "<h2><a class='collection-item waves-effect black-text'>Sua sugestão foi enviada com sucesso</a></h2>";
+        echo "</div></div></div></main></div>";
+
+
+} else {
+    echo "Erro ao enviar sua sugestão. " . $sql . "<br>" . $conn->error;
+}
+
+
+    mysqli_close($conn);
+    ?>
 
 <script src="js/vendor/jquery.min.js"></script>
 <script src="js/vendor/materialize-0.97.0.min.js"></script>

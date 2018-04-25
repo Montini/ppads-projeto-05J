@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="pt-br" Xmanifest="appcache.manifest">
 <head>
@@ -79,64 +80,24 @@
 
 
 		<div id="faculdades" class="section">
-		
 
-			<div class="collection">
-		     	
-				<a class="collection-item waves-effect black-text" 
-				   href="faculdade-ccbs.html">CCBS - Centro de Ciências Biológicas e da Saúde</a>
-			
-			</div>
+            <?php
+            // conctando ao BD
+            include "conecta_mysql.php";
 
-			
-			<div class="collection">
+            // executando a operação de SQL
+            $resultado = mysqli_query($conn, "SELECT faculdade_nomecurto, faculdade_nomelongo, faculdade_url, loja_nomecurto, loja_nomelongo, loja_url  from faculdades, restaurantes") or die("Não foi possível executar a SQL: ".mysqli_error($conn));
+            if($resultado){
+                while($row = mysqli_fetch_array($resultado) ){
 
-				<a class="collection-item waves-effect black-text"
-				   href="faculdade-ccl.html">CCL - Centro de Comunicação e Letras</a>
+                    echo "<div class=\"collection\"><a class=\"collection-item waves-effect black-text\" href=\"{$row["faculdade_url"]}\">" .$row["faculdade_nomecurto"]." - ".$row["faculdade_nomelongo"]."</a></div>";
 
-			</div>
+                }
+            }
+            // fechamento da conexão
+            mysqli_close($conn);
+            ?>
 
-			<div class="collection">
-		     	
-				<a class="collection-item waves-effect black-text" 
-				   href="faculdade-fci.html">FCI - Faculdade de Computação e Informática</a>
-			
-			</div>
-
-			<div class="collection">
-
-				<a class="collection-item waves-effect black-text"
-				   href="faculdade-ccsa.html">CCSA - Centro de Ciências Sociais Aplicadas</a>
-
-			</div>
-
-			<div class="collection">
-
-				<a class="collection-item waves-effect black-text"
-				   href="faculdade-ceft.html">CEFT - Centro de Educação, Filosofia e Teologia</a>
-
-			</div>
-
-			<div class="collection">
-
-				<a class="collection-item waves-effect black-text"
-				   href="faculdade-ee.html">EE - Escola de Engenharia</a>
-
-			</div>
-
-			<div class="collection">
-
-				<a class="collection-item waves-effect black-text"
-				   href="faculdade-fau.html">FAU - Faculdade de Arquitetura e Urbanismo</a>
-
-			</div>
-
-			<div class="collection">
-
-				<a class="collection-item waves-effect black-text"
-				   href="faculdade-fd.html">FD - Faculdade de Direito</a>
-
-			</div>
 
 	</div>
 	

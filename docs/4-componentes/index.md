@@ -1,4 +1,4 @@
 # Detalhamento dos componentes
 
-![](DiagramaOficial.png)
+![](DiagramaOficial.PNG)
 Para cada componente da solução, elaborar um diagrama de classes.

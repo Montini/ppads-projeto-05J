@@ -1,6 +1,5 @@
 # Detalhamento dos componentes
-Para cada componente da solução, elaborar um diagrama de classes.
-Diagrama do Tipo WAE
+Para cada componente da solução, elaborado um diagrama do tipo WAE
 
 ![](DiagramaOficial.PNG)
 

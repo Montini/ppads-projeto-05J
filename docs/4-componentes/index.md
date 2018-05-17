@@ -6,4 +6,4 @@ Para cada componente da solução, elaborado um diagrama do tipo WAE
 
 Diagrama WAE versão com as paginas PHP.
 
-![](DiagramaOfPHP.PNG)
+![](DiagramaOficialPHP.PNG)

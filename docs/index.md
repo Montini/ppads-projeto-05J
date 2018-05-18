@@ -7,4 +7,5 @@
 * Mapas de Navegação
 * [Arquitetura](3-arquitetura/)
 * [Detalhamento dos Componentes](4-componentes)
+* [Plano de Testes](5-testes)
 

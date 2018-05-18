@@ -127,8 +127,7 @@ Para cada caso de uso, elabore um **procedimento de teste** para testar o cenár
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
 | 1 | Clicar no link **Faculdades -  Restaurantes - Prédios** | Apresentação da tela com lista de Faculdades |
-| 2 | Clicar no link **FCI - Faculdade de Computação e Informática**
- | Apresentação da página com as informações da Faculdade de Computação e Informática|
+| 2 | Clicar no link **FCI - Faculdade de Computação e Informática** | Apresentação da página com as informações da Faculdade de Computação e Informática|
 | 3 | Clicar no link **Sugerir alteração** | Apresentação da tela com informações da Faculdade de Computação e Informática e campo para sugerir alteração |
 | 4 | Sugerir uma alteração | |
 | 5 | Clicar no link **Enviar** | Apresentação da tela confirmando o envio da sugestão e redirecionar para a página da Faculdade de Computação e Informática |

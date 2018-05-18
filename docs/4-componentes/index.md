@@ -1,5 +1,9 @@
 # Detalhamento dos componentes
+Para cada componente da solução, elaborado um diagrama do tipo WAE
 
-Para cada componente da solução, elaborar um diagrama de classes.
+![](DiagramaOficial.PNG)
 
-Veja alguns [exemplos de diagramas de classes](http://www.itmeyer.at/umlet/uml2/travelDetailDiagram.html).
+
+Diagrama WAE versão com as paginas PHP.
+
+![](DiagramaOficialPHP.PNG)

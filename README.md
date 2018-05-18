@@ -8,4 +8,3 @@
 * Dara Cedraz TIA 31520251
 * Leticia Souza TIA 31543197
 * Adriano Santos TIA 41587634
-* Filippi Luigi di Pipi TIA 31438938

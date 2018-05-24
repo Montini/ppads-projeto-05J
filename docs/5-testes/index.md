@@ -56,15 +56,15 @@ Para cada caso de uso, elabore um **procedimento de teste** para testar o cenár
 
 **Preparação:**
 
-* Excluir uma Faculdade.
+* Excluir uma Prédio.
 
 **Procedimento de teste:**
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
 | 1 | Clicar no link **Excluir** | Apresentação da lista com as categorias |
-| 2 | Selecionar a categoria **Faculdade**  | Apresentação da tela com a lista de Faculdades cadastradas|
-| 3 | Clicar no link **Teste** | Apresentação da página com a confirmação da operação e redirecionar para a área do administrador|
+| 2 | Selecionar a categoria **Prédios**  | Apresentação da tela com a lista de Prédios cadastrados|
+| 3 | Clicar no link **Auditório Ruy Barbosa** | Apresentação da página com a confirmação da operação e redirecionar para a área do administrador|
 
 
 

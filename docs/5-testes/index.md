@@ -28,10 +28,11 @@ Para cada caso de uso, elabore um **procedimento de teste** para testar o cenár
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 1 | Clicar no link **Incluir** | Apresentação da lista com as categorias |
-| 2 | Selecionar a categoria **Prédio**  | Apresentação da tela com formulário para cadastro |
-| 3 | Preencher formulário com as informações do Prédio | |
-| 4 | Clicar no link **Incluir** | Apresentar tela confirmando a operação e redirecionar para a página do Administrador |
+| 1 | Acessar **Área do administrador** | Apresentação da tela de login do sistema |
+| 2 | Clicar no link **Incluir** | Apresentação da lista com as categorias |
+| 3 | Selecionar a categoria **Prédio**  | Apresentação da tela com formulário para cadastro |
+| 4 | Preencher formulário com as informações do Prédio | |
+| 5 | Clicar no link **Incluir** | Apresentar tela confirmando a operação e redirecionar para a página do Administrador |
 
 
 
@@ -45,11 +46,12 @@ Para cada caso de uso, elabore um **procedimento de teste** para testar o cenár
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 1 | Clicar no link **Editar** | Apresentação da lista com as categorias |
-| 2 | Selecionar a categoria **Faculdade**  | Apresentação da tela com a lista de Faculdades cadastradas|
-| 3 | Clicar no link **FCI** | Apresentação da tela com os campos já preenchidos com as informações da Faculdade |
-| 4 | Alterar o campo com o **Número do Prédio** |  |
-| 5 | Clicar no link **Alterar** | Apresentação da página com a confirmação da operação e redirecionar para a área do administrador |
+| 1 | Acessar **Área do administrador** | Apresentação da tela de login do sistema |
+| 2 | Clicar no link **Editar** | Apresentação da lista com as categorias |
+| 3 | Selecionar a categoria **Faculdade**  | Apresentação da tela com a lista de Faculdades cadastradas|
+| 4 | Clicar no link **FCI** | Apresentação da tela com os campos já preenchidos com as informações da Faculdade |
+| 5 | Alterar o campo com o **Número do Prédio** |  |
+| 6 | Clicar no link **Alterar** | Apresentação da página com a confirmação da operação e redirecionar para a área do administrador |
 
 
 
@@ -63,9 +65,10 @@ Para cada caso de uso, elabore um **procedimento de teste** para testar o cenár
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 1 | Clicar no link **Excluir** | Apresentação da lista com as categorias |
-| 2 | Selecionar a categoria **Prédios**  | Apresentação da tela com a lista de Prédios cadastrados|
-| 3 | Clicar no link **Auditório Ruy Barbosa** | Apresentação da página com a confirmação da operação e redirecionar para a área do administrador|
+| 1 | Acessar **Área do administrador** | Apresentação da tela de login do sistema |
+| 2 | Clicar no link **Excluir** | Apresentação da lista com as categorias |
+| 3 | Selecionar a categoria **Prédios**  | Apresentação da tela com a lista de Prédios cadastrados|
+| 4 | Clicar no link **Auditório Ruy Barbosa** | Apresentação da página com a confirmação da operação e redirecionar para a área do administrador|
 
 
 

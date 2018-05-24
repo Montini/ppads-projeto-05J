@@ -12,8 +12,9 @@ Para cada caso de uso, elabore um **procedimento de teste** para testar o cenár
 
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
-| 1 | Acessar **Área do administrador** | Apresentação da tela de login do sistema |
-| 2 | Preencher os campos **login** e **password** com os dados do **Admin**  | Apresentação do painel do Administrador |
+| 1 | Clicar no link **Faculdades -  Restaurantes - Prédios** | Apresentação da tela com lista de Faculdade, Restaurante e Prédios |
+| 2 | Acessar **Área do administrador** | Apresentação da tela de login do sistema |
+| 3 | Preencher os campos **login** e **password** com os dados do **Admin**  | Apresentação do painel do Administrador |
 
 
 

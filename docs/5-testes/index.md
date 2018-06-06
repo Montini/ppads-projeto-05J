@@ -99,7 +99,7 @@ Para cada caso de uso, elabore um **procedimento de teste** para testar o cenár
 | Passo | Procedimento | Resultado esperado |
 | --- | --- | --- |
 | 1 | Clicar no link **Faculdades -  Restaurantes - Prédios** | Apresentação da tela com lista de Faculdades|
-| 2 | Clicar no link **Prédios**  | Apresentação da lista de Prédios cadastrados|
+| 2 | Clicar no link **Faculdades**  | Apresentação da lista de Prédios cadastrados|
 | 3 | Clicar no link **EE- Escola de Engenharia** | Apresentação da página com as informações da Escola de Engenharia|
 
 
